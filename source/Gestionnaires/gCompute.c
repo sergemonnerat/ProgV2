@@ -14,7 +14,6 @@ Description dans le fichier gCompute.h
 #include "gCompute.h"
 #include "gMBox.h"
 
-
 //-----------------------------------------------------------------------------
 // Configuration du gestionnaire
 //-----------------------------------------------------------------------------
